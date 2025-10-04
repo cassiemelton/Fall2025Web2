@@ -4,6 +4,10 @@
 
 # Web Software Development Program
 
+<!--suggested image (file & alt text)-->
+
+![BTC Hero Banner](/images/btc-entrance-with-logo.jpeg)
+
 ## Associates Degree
 
 The Web Software Development Program focuses on the specific skills and knowledge requirements you need for web development specialist jobs including analyst, programmer, e-Commerce, or web design/support.
@@ -23,6 +27,8 @@ According to U.S. Bureau of Labor Statistics (BLS) for 2024
 - Front-End Developer
 - Project Manager
 - E-Commerce Support Specialist
+  <!--suggested image (file & alt text)-->
+  ![Front End Developer](/images/frontEndDeveloper.jpeg "Front End Developer")
   <br>
   <br>
 
@@ -32,3 +38,7 @@ According to U.S. Bureau of Labor Statistics (BLS) for 2024
 6004 S County Rd G  
 Janesville WI 53546  
 (608) 758-6900
+
+<!--Images (filename & alt text) -->
+
+![BTC Janesville Campus](/images/btc-campus-hero-banner.jpeg "Blackhawk Tech")
