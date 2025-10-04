@@ -12,7 +12,7 @@
 
 The Web Software Development Program focuses on the specific skills and knowledge requirements you need for web development specialist jobs including analyst, programmer, e-Commerce, or web design/support.
 
-###### \*Most classes offered as hybrid, My/Ed Choice
+###### \*Most courses in this program are offered as MyEd Choice
 
 ### Credits: 60
 
