@@ -8,11 +8,11 @@
 
 ![BTC Hero Banner](/images/btc-entrance-with-logo.jpeg)
 
-## Associates Degree
+## Associate of Applied Science Degree
 
 The Web Software Development Program focuses on the specific skills and knowledge requirements you need for web development specialist jobs including analyst, programmer, e-Commerce, or web design/support.
 
-###### \*Most courses in this program are offered as MyEd Choice
+The IT-Web Software Developer Associate of Applied Science Degree meets the specific skills and knowledge requirements of technical and professional jobs within the information technology field for Web Development specialists including programmer, front end developer, or web design/support. It is designed to meet entry-level education needs of most segments of the web development field which involve front end programming. Training blends general educational development and required web development skills. Graduates are prepared for entry-level Web developer jobs in government, insurance, manufacturing, service, software development, wholesale and retail sales, utilities, banking and accounting.
 
 ### Credits: 60
 
@@ -31,6 +31,16 @@ According to U.S. Bureau of Labor Statistics (BLS) for 2024
   ![Front End Developer](/images/frontEndDeveloper.jpeg "Front End Developer")
   <br>
   <br>
+
+> **Program Outcomes**
+>
+> - Plan web-based solutions
+> - Design web application
+> - Build front-end of web-based software applications
+> - Build back-end of web-based software applications
+> - Integrate database technologies
+> - Develop technical documentation for web applications
+> - Test web application​
 
 ### Campus Location:
 
