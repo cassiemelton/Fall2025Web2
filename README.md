@@ -14,5 +14,5 @@ We’re building a site with 7 pages and a couple of folders for images and scri
   ```bash
   git clone https://github.com/cassiemelton/Fall2025Web2.git
   cd Fall2025Web2
-
-## Add remaining parts to project
+-Add your files/changes to your part of the project.
+-Commit and push so we can keep everything synced.
